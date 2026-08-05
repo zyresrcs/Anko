@@ -21,3 +21,5 @@ For upcoming stages of development, the integration of the following improvement
 At this stage, development efforts are primarily focused on parallel projects. Consequently, maintenance for **AnkoV2** will be temporarily limited to **updating the corresponding DLLs**.
 
 >  Once the milestones for concurrent projects are met, active and comprehensive development of **AnkoV2** will be resumed.
+
+![Image](Screenshot1.png)
