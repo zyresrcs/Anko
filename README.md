@@ -23,3 +23,6 @@ At this stage, development efforts are primarily focused on parallel projects. C
 >  Once the milestones for concurrent projects are met, active and comprehensive development of **AnkoV2** will be resumed.
 
 ![Image](Screenshot1.png)
+![Image](Screenshot2.png)
+![Image](Screenshot3.png)
+![Image](Screenshot4.png)
